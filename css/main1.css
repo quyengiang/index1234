@@ -1,0 +1,202 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.container
+{
+	width: 1600px;
+	height: 4000px;
+	background-color:aliceblue;
+	margin: 0 auto;
+
+}
+.header
+{
+	width: 1600px;
+	height: 130px;
+	background-color:currentColor;
+
+}
+.logo
+{
+	width: 600px;
+	height: 130px;
+	background-color: aliceblue;
+	float: left;
+}
+.menu
+{
+width: 1000px;
+	height: 130px;
+	background-color:aliceblue;	
+	float:right;
+}
+.slider
+{
+	width: 1600px;
+	height: 780px;
+	background-color: aliceblue;
+	
+	
+}
+.slider2
+{
+	width: 1600px;
+	height: 500px;
+	background-color:aliceblue;
+}
+.slider3
+{
+	width: 1600px;
+	height: 600px;
+	background-color:aliceblue;
+	
+
+}
+.slider4
+{
+	width: 1400px;
+	height: 800px;
+	background-color:aliceblue;
+	padding: 0 100px 0 100px;
+}
+.slider5
+{
+	width: 1600px;
+	height: 500px;
+	background-color:aliceblue;
+
+}
+.slider6
+{
+	width: 1600px;
+	height: 500px;
+	background-color:aliceblue;
+	
+}
+.slider7
+{
+	width: 1600px;
+	height: 250px;
+	background-color:aliceblue;
+	
+}
+
+
+ul
+{
+	list-style: none;
+}
+ul li
+{
+	float:left;
+	padding:50px 150px 30px 40px;
+	text-align: center;
+}
+ul li a
+{
+	text text-decoration: none;
+	color: black;
+}
+ul li:hover
+{
+	background-color: cornflowerblue;
+	text-align: center;
+}
+.item
+{
+	width: 290px;
+	height: 290px;
+	background-color: dimgrey;
+	margin:40px 10px 0px 40px;
+	float: left;
+} 
+.item2
+{
+	width: 300px;
+	height: 300px;
+	background-color: aliceblue;
+	float: left;
+	margin: 50px 5px 0px 80px;
+	text-align: center;
+	line-height:80px;
+}
+.item3
+{
+	width: 1400px;
+	height: 500px;
+	background-color:aliceblue;
+	float: left;
+	margin:5px 0px 0px 100px;
+	
+}
+.trai
+{
+	width: 800px;
+	height: 500px;
+	float:left;
+	background-color:aliceblue;
+	margin:0px 0px 0px 400px;
+	text-align: center;
+}
+.item4
+{
+	width: 500px;
+	height: 200px;
+	background-color: aliceblue;
+	margin:30px 0px 0px 100px;
+	float: left;
+	text-align:center;
+} 
+.item5
+{
+	width: 500px;
+	height: 200px;
+	background-color: aliceblue;
+	margin:30px 0px 0px 200px;
+	float:left;
+	text-align:left;
+} 
+.item6
+{
+	width: 1600px;
+	height: 600px;
+	background-color: aquamarine;
+	
+}
+.bentrai
+{
+	width: 500px;
+	height: 300px;
+	float:left;
+	background-color:aliceblue;
+	margin:100px 0px 0px 300px;
+	text-align: center;
+}
+.benphai
+{
+	width: 500px;
+	height: 300px;
+	float:left;
+	background-color:aliceblue;
+	margin:100px 0px 0px 10px;
+	text-align:left;
+	font-size: 20px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
